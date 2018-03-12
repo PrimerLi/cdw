@@ -10,4 +10,4 @@ the smaller the order parameter, which is consistent with the physical intuition
 
 In the periodic  Anderson model with Holstein phonons, I have made the assumption that the Hubbard interaction is negligible, and thus solve the mean field equations for different values of hybridization strengths. What I found is that the electron-phonon interaction is in strong competition with the hybridization effect. This competition is responsible for the many interesting physics that we can see in this model. Because of this competition, the CDW order parameter gets smaller as the hybridization strength gets stronger. 
 
-A detailed description of the model and the methods can be found in the file mft.pdf. 
+A detailed description of the model and the methods can be found in the file https://github.com/PrimerLi/cdw/blob/master/mft.pdf. 
